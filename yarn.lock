@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@tosspayments/widget-sdk-react-native@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@tosspayments/widget-sdk-react-native/-/widget-sdk-react-native-1.2.0.tgz#1de4b1bba80d64a11a100de07e9aa9060d29171b"
-  integrity sha512-KNgGShuWv5h3hWVRqyns2qC/XNiCaSRsMlGnqh0r/2/fmzkvByyLrK6peVVvvjfYjisRA/GCFXThg9GnoRFB8g==
+"@tosspayments/widget-sdk-react-native@1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@tosspayments/widget-sdk-react-native/-/widget-sdk-react-native-1.2.7.tgz#194df662646d2d3106efc8c075e388f21a03535f"
+  integrity sha512-ZVA7YA+kkraVbALfNj+JlF0wB4q58XHh+M2Zd0IAwSiexDSUjn/Xrz2r1BCUCrBO5UmXTyiOsC5i2Jwxz3+cBA==
   dependencies:
     react-native-url-polyfill "^2.0.0"
 

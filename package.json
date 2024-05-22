@@ -6,6 +6,6 @@
   "author": "wonhopark89-dev <wonhopark89.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tosspayments/widget-sdk-react-native": "1.2.0"
+    "@tosspayments/widget-sdk-react-native": "1.2.7"
   }
 }
